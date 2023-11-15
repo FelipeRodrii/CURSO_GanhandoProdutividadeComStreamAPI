@@ -1,4 +1,4 @@
-public interface ReprodutorMuscial {
+public interface ReprodutorMusical {
 
     default void tocar(){
         System.out.println("Tocando Musica....");

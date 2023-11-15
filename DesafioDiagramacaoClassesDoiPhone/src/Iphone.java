@@ -1,4 +1,4 @@
-public class Iphone implements AparelhoTelefonico, NavegadorNaInternet, ReprodutorMuscial{
+public class Iphone implements AparelhoTelefonico, NavegadorNaInternet, ReprodutorMusical{
     public static void main(String[] args) throws Exception {
         Iphone iPhone = new Iphone();
 

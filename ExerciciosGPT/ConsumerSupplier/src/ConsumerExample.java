@@ -23,11 +23,6 @@ public class ConsumerExample{
         Supplier<String> stringTeste = () -> teste;
 
         System.out.println("Nome do Usuário:"+nome.get()+" Idade do usuário:"+idade.get()+ stringTeste.get().toString());
-
-        
-        
-        
-
         
     }
    
